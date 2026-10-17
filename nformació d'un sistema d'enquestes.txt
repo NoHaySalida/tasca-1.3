@@ -1,0 +1,40 @@
+{
+  "encuestas": [
+    {
+      "id": 1,
+      "titol": "Satisfacción de los Abonados del Club",
+      "activa": true,
+      "preguntes": [
+        {
+          "ordre": 1,
+          "text": "¿Cómo valoras la experiencia en el estadio durante los partidos?",
+          "tipus": "opcio_multiple",
+          "opcions": ["Excelente", "Buena", "Regular", "Deficiente"]
+        },
+        {
+          "ordre": 2,
+          "text": "¿Qué aspectos sugieres mejorar en el acceso al estadio?",
+          "tipus": "text_lliure"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titol": "Evaluación de la Temporada del Equipo",
+      "activa": false,
+      "preguntes": [
+        {
+          "ordre": 1,
+          "text": "¿Qué nota le pones al rendimiento general del equipo esta temporada?",
+          "tipus": "opcio_multiple",
+          "opcions": ["Sobresaliente", "Notable", "Aprobado", "Suspenso"]
+        },
+        {
+          "ordre": 2,
+          "text": "¿Qué posición consideras que necesita reforzarse para el próximo mercado de fichajes?",
+          "tipus": "text_lliure"
+        }
+      ]
+    }
+  ]
+}

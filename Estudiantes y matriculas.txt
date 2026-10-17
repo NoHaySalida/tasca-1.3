@@ -1,0 +1,43 @@
+{
+  "estudiantes": [
+    {
+      "id": 201,
+      "nombre": "Anna",
+      "cognom": "Serra",
+      "email": "anna@example.com",
+      "matriculaciones": [
+        {
+          "id": 601,
+          "modul": "M06",
+          "nota": 8.5
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "nombre": "Biel",
+      "cognom": "Amengual",
+      "email": "biel@example.com",
+      "matriculaciones": [
+        {
+          "id": 602,
+          "modul": "M06",
+          "nota": 9.2
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "nombre": "Joan",
+      "cognom": "García",
+      "email": "joan@example.com",
+      "matriculaciones": [
+        {
+          "id": 603,
+          "modul": "M06",
+          "nota": 7.9
+        }
+      ]
+    }
+  ]
+}

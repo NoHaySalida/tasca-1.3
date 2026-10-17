@@ -1,0 +1,46 @@
+{
+  "animales": [
+    {
+      "nombre": "Tiburón blanco",
+      "tipo": "Pez",
+      "habitat": "Oceánico",
+      "tamano": {
+        "longitud_m": 6.4,
+        "peso_kg": 1900
+      },
+      "estado_conservacion": "En peligro",
+      "caracteristicas": [
+        "Depredador superior.",
+        "Temido en los océanos por su tamaño y ferocidad"
+      ]
+    },
+    {
+      "nombre": "Ballena azul",
+      "tipo": "Mamífero marino",
+      "habitat": "Oceánico",
+      "tamano": {
+        "longitud_m": 30.0,
+        "peso_kg": 200000
+      },
+      "estado_conservacion": "En peligro crítico",
+      "caracteristicas": [
+        "El animal más grande del planeta",
+        "Se alimenta principalmente de krill"
+      ]
+    },
+    {
+      "nombre": "Tortuga verde",
+      "tipo": "Reptil",
+      "habitat": "Marino",
+      "tamano": {
+        "longitud_m": 1.5,
+        "peso_kg": 150
+      },
+      "estado_conservacion": "Vulnerable",
+      "caracteristicas": [
+        "Se alimenta principalmente de algas marinas",
+        "Realiza migraciones de miles de kilómetros"
+      ]
+    }
+  ]
+}
